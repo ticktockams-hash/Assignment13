@@ -1,0 +1,1 @@
+SELECT * FROM company2.member;
