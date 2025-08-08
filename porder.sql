@@ -1,1 +1,0 @@
-SELECT * FROM company2.porder;
